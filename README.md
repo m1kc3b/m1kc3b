@@ -1,4 +1,4 @@
-
+```
 [package]
 
 name = "m1kc3b"
@@ -13,13 +13,14 @@ keywords = ["software", "cli", "embedded"]
 
 authors = ["Michael <m1kc3b@gmail.com>"]
 
-```
+
  \
          \
             _~^~^~_
         \) /  o o  \ (/
           '_   -   _'
           / '-----' \
-```
+
 
 $ cargo build --release
+```
