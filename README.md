@@ -1,3 +1,4 @@
+```
 [package]
 name = "m1kc3b"
 version = "1.0.0"
@@ -12,6 +13,6 @@ authors = ["Michael <m1kc3b@gmail.com>"]
         \) /  o o  \ (/
           '_   -   _'
           / '-----' \
-
+```
 
 $ cargo build --release
