@@ -1,5 +1,5 @@
 ```
-[package]
+[bio]
 
 name = "m1kc3b"
 
