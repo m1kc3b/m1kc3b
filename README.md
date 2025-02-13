@@ -13,7 +13,7 @@ keywords = ["software", "cli", "embedded"]
 
 categories = ["Rust", "JavaScript", "Python"]
 
-authors = ["Michael <m1kc3b@gmail.com>"]
+authors = ["Michael <me@m1kc3b.com>"]
 
 
  \
