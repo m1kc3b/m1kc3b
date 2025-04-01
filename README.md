@@ -1,5 +1,6 @@
 # I'm Michael 
 🌟 JS/TS/Rust Developer (fullstack)
+
 I am a self-taught, passionate and meticulous developer.
 
 <div>
