@@ -1,8 +1,7 @@
 # I'm Michael 
-## 🌟 JS/TS/Rust Developer (fullstack)
+🌟 JS/TS/Rust Developer (fullstack)
 I am a self-taught, passionate and meticulous developer.
 
-## Stack
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60px" height="60px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60px" height="60px" />
